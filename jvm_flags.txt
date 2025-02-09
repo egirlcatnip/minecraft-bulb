@@ -1,0 +1,1 @@
+-XX:+UseZGC -XX:+ZGenerational -XX:+ZUncommit -XX:AllocatePrefetchStyle=1
